@@ -14,7 +14,7 @@ Watchlist to save movies for later
 Rating & review system with filters  
 Tools Used: Figma, UI/UX design principles  
 *Preview:*  
-  ![Movie App](MovieApp-UIUX/screenshot.png)
+  ![Movie App](https://github.com/izmahnasir20/InternIntelligence_MovieRecommendationApp/blob/main/Movie%20Recommendation%20App.jpg?raw=true)
 
 ## Tools & Skills
 Design Tool: Figma  
